@@ -17,3 +17,5 @@ This was my first JavaScript project while going through the course: The Complet
 The "index.html" and "style.css" files were provided by the instructor but all of the code in "script.js" is my own.
 
 Got the game running and then refactored code to make it DRY (Don't Repeat Yourself).
+
+Play the game at: https://guessmynumber-chung-peter.netlify.app/
