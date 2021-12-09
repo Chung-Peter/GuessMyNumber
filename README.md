@@ -1,6 +1,6 @@
 # GuessMyNumber
 
-Guess a number between 1 and 20 by inputting into the field and clicking the "Check!" button.
+Guess a number between 1 and 20 by inputting your guess into the field and clicking the "Check!" button.
 
 If your guess is too high or too low, your score for this round will decrease.
 
